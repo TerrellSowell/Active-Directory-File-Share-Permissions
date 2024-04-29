@@ -3,7 +3,7 @@
 
 ## Objective
 
-This Active Directory Lab project aimed to establish a controlled environment for simulating and creating network files and permissions on Active Directory. The primary focus was to create and analyze file share and permissions within a Domain Controller, generating test telemetry to mimic real-world helpdesk scenarios. This hands-on experience was designed to deepen understanding of network files and permissions .
+This Active Directory Lab project aimed to create file sharing to allow Read, Write, or Deny access yo individual users or groups. The primary focus was to create and analyze file share and permissions within a Domain Controller, generating test telemetry to mimic real-world helpdesk scenarios. I did this by running Active Directory in Azure on a virtual machine (DC1) and a client machine in Azure on a virtual machine (client1) and joined to the domain. This hands-on experience was designed to deepen understanding of network files and permissions .
 
 ### Skills Learned<h2>
 
@@ -18,4 +18,6 @@ This Active Directory Lab project aimed to establish a controlled environment fo
   - Windows Server 2022
     
 ## Steps<h2>
+
+* **
 
