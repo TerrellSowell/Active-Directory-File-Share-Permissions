@@ -26,5 +26,9 @@ This Active Directory Lab project aimed to create file sharing to allow Read, Wr
 ![file](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/42253af8-7695-4221-af83-30873257a713)
 ![file2](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/a7886bd0-c044-443a-8ea4-3a1b1450271b)<p>
 
-*
+* **Set the following permissions (share the folder) for the “Domain Users” group:
+Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
+Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
+Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”**
+
 
