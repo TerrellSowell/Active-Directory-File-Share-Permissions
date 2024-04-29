@@ -19,5 +19,12 @@ This Active Directory Lab project aimed to create file sharing to allow Read, Wr
     
 ## Steps<h2>
 
-* **
+* **On DC1, on C:\drive , create 4 folders: "read-access", "write-access", "no-access", "accounting"**
+  - Click the start menu and click "File Explorer"
+  - Click "this PC" and right click "new" this will create folders in the C drive
+  -   
+![file](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/42253af8-7695-4221-af83-30873257a713)
+![file2](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/a7886bd0-c044-443a-8ea4-3a1b1450271b)<p>
+
+*
 
