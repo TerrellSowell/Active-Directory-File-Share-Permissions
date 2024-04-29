@@ -2,7 +2,7 @@
 
 ## Objective
 
-Active Directory Lab project aimed to establish a controlled environment for simulating and creating network files and permissions on Active Directory. The primary focus was to create and analyze file share and permissions within a Domain Controller, generating test telemetry to mimic real-world helpdesk scenarios. This hands-on experience was designed to deepen understanding of network files and permissions .
+This Active Directory Lab project aimed to establish a controlled environment for simulating and creating network files and permissions on Active Directory. The primary focus was to create and analyze file share and permissions within a Domain Controller, generating test telemetry to mimic real-world helpdesk scenarios. This hands-on experience was designed to deepen understanding of network files and permissions .
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
