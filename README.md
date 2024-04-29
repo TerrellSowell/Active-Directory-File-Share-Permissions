@@ -32,9 +32,11 @@ Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Wri
 Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”**
   - Right the folder and select "Properties"
   - Click the "Sharing" tab then click the "share" button
-  - In the network access box type which permissions you want to give to which folder. 
+  - In the network access box type which user groups you want to have access to give to which folder. In the photo belows below I chose "Domain users"
+  - Last you want to click the "Permission Level" tab and choose which permissions you want to give to the folder. In the photo below I chose "Read" which means users outside of the Domain Users group will be able to read the files in the folder.
  
 ![file3](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/3c1839e5-d5fb-4353-a44b-45f9cd3470d3)
 ![file4](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/2c16c0ce-0a04-4959-ac80-9e1926dbee12)
+![file5](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/52f34a64-9130-4134-a71a-c469bd778002)
 
 
