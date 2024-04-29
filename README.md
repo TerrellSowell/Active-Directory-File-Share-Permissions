@@ -6,16 +6,11 @@
 This Active Directory Lab project aimed to establish a controlled environment for simulating and creating network files and permissions on Active Directory. The primary focus was to create and analyze file share and permissions within a Domain Controller, generating test telemetry to mimic real-world helpdesk scenarios. This hands-on experience was designed to deepen understanding of network files and permissions .
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Advanced understanding file sharing.
+- Ability to generate and recognize user permissions.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
