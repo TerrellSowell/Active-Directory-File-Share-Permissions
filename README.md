@@ -1,4 +1,5 @@
 # Active Directory Network File Shares and Permissions
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 
 ## Objective
 
