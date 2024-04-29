@@ -41,7 +41,11 @@ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Wri
 
 * **Step 3: Attempt to access file shares as a normal user an test access**
   - On Client-1, navigate to the shared folder (start, run, \\dc-1)
-  - Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? Does it make sense?
+  - Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in?
 
+
+![file6](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/b71145c7-9098-450b-85ae-e9718fbeb6b3)
+![file7](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/a4262f00-77fa-4405-bba6-52a6b7fffa43)
+![file8](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/6bb6dfeb-5fc6-4cbc-9a20-137f04901f74)
 
 
