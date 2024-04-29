@@ -19,16 +19,22 @@ This Active Directory Lab project aimed to create file sharing to allow Read, Wr
     
 ## Steps<h2>
 
-* **On DC1, on C:\drive , create 4 folders: "read-access", "write-access", "no-access", "accounting"**
+* **Step 1: On DC1, on C:\drive , create 4 folders: "read-access", "write-access", "no-access", "accounting"**
   - Click the start menu and click "File Explorer"
-  - Click "this PC" and right click "new" this will create folders in the C drive
-  -   
+  - Click "this PC" and right click "new" this will create folders in the "C" drive
+    
 ![file](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/42253af8-7695-4221-af83-30873257a713)
 ![file2](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/a7886bd0-c044-443a-8ea4-3a1b1450271b)<p>
 
-* **Set the following permissions (share the folder) for the “Domain Users” group:
+* **Step 2: Set the following permissions (share the folder) for the “Domain Users” group:
 Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
 Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
 Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”**
+  - Right the folder and select "Properties"
+  - Click the "Sharing" tab then click the "share" button
+  - In the network access box type which permissions you want to give to which folder. 
+ 
+![file3](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/3c1839e5-d5fb-4353-a44b-45f9cd3470d3)
+![file4](https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions/assets/161978506/2c16c0ce-0a04-4959-ac80-9e1926dbee12)
 
 
