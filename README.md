@@ -29,9 +29,10 @@ This Active Directory Lab project aimed to create file sharing to allow Read, Wr
 * **Step 2: Set the following permissions (share the folder) for the “Domain Users” group:
 Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
 Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
-Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”**
+Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”**<p>
 Permissions in Active Directory are access privileges that you grant to users and groups that permit them to interact with objects. An administrator assigns permissions to a user or a group so that they can access or manage a folder.
 Permissions in Active Directory are divided into standard permissions and special permissions. Standard permissions give the user privileges such as read, write, and full control. Special permissions give the user different abilities such as allowing the user to modify object permissions or owners.
+
   - Right the folder and select "Properties"
   - Click the "Sharing" tab then click the "share" button
   - In the network access box type which user groups you want to have access to give to which folder. In the photo belows below I chose "Domain users"
